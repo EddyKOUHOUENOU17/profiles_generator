@@ -1,0 +1,38 @@
+[
+  {
+    "prenom": "Payton",
+    "nom": "George",
+    "code_postal": "89833",
+    "date_naissance": "03/08/1974",
+    "ville": "Ruby Valley",
+    "etat": "Nevada",
+    "sexe": "H"
+  },
+  {
+    "prenom": "Daubert",
+    "nom": "Wilford",
+    "code_postal": "01105",
+    "date_naissance": "20/02/1983",
+    "ville": "Springfield",
+    "etat": "Massachusetts",
+    "sexe": "H"
+  },
+  {
+    "prenom": "Grant",
+    "nom": "Jesus",
+    "code_postal": "67501",
+    "date_naissance": "03/02/1983",
+    "ville": "Hutchinson",
+    "etat": "Kansas",
+    "sexe": "H"
+  },
+  {
+    "prenom": "Newman",
+    "nom": "Patrick",
+    "code_postal": "20904",
+    "date_naissance": "11/01/1983",
+    "ville": "Silver Spring",
+    "etat": "Maryland",
+    "sexe": "H"
+  }
+]

@@ -1,0 +1,11 @@
+{
+  "FR": { "label": "🇫🇷 France", "ages": ["16-24"] },
+  "DE": { "label": "🇩🇪 Allemagne", "ages": ["DE16+", "DE55+", "DE 18-24"] },
+  "US": { "label": "🇺🇸 États-Unis", "ages": ["US16+", "US35+", "US Hispanic", "16+", "US Hispanic 16-29", "US Asian"] },
+  "ES": { "label": "🇪🇸 Espagne", "ages": ["ES 18-24"] },
+  "CA": { "label": "🇨🇦 Canada", "ages": ["CA_ENG 16-24"] },
+  "IT": { "label": "🇮🇹 Italie", "ages": ["16+"] },
+  "IE": { "label": "🇮🇪 Irlande", "ages": ["18+"] },
+  "AU": { "label": "🇦🇺 Australie", "ages": ["18-24", "16+"] },
+  "CH": { "label": "🇨🇭 Suisse", "ages": ["CH_DE 18+", "CH 16+", "CH 18+"] }
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "prenom": "Wells",
+    "nom": "Freddie",
+    "date_naissance": "1998-04-12",
+    "code_postal": "K0C 1W0",
+    "etat": "Ontario",
+    "sexe": "H"
+  },
+  {
+    "prenom": "Stanley",
+    "nom": "Evan",
+    "date_naissance": "1999-01-22",
+    "code_postal": "T5J 2R4",
+    "etat": "Alberta",
+    "sexe": "H"
+  },
+  {
+    "prenom": "Griffin",
+    "nom": "Anthony",
+    "date_naissance": "1996-05-18",
+    "code_postal": "G0C 1E0",
+    "etat": "Québec",
+    "sexe": "H"
+  }
+]
